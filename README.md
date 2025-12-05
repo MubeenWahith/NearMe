@@ -53,120 +53,132 @@ Execute the programs and publish them.
 </html>
 
 
-<html>
+<html>   
     <head>
-        <title align=" centre ">PONNI MESS </title>
-        <br>
-
+        <title>Ponni Mess</title>
     </head>
     <body bgcolor="green">
-         <h1 align = "center"> PONNI MESS </h1> 
-         <br>
-         <h3> Ponni Mess in Ramanathapuram is a popular local eatery situated on Kenikarai, Devipattinam Road.
-         It is well known for serving authentic South Indian meals and biryani in a homely mess-style atmosphere.
-         The place has earned a strong reputation among locals for its flavorful dishes and good service, making it a go-to spot for those seeking traditional tastes in the region.
-         </h3>
-    </body>
-    
+        <h1 align="center">
+            <font color="pink"><b>Ramanathapuram</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="black"><b>Ponni Mess</b></font>
+        </h3>
+        <hr size="3" color="white">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                 Ponni Mess in Ramanathapuram is a popular local eatery situated on Kenikarai, Devipattinam Road.
+                 It is well known for serving authentic South Indian meals and biryani in a homely mess-style atmosphere.
+                 The place has earned a strong reputation among locals for its flavorful dishes and good service, making it a go-to spot for those seeking traditional tastes in the region.
+        
+        </p>
+                
+   </body>
 </html>
 
 
-<html>
+<html>   
     <head>
-        <title align=" centre "> HOTEL RIFAYA </title>
-        <br>
-
+        <title>Rifaya</title>
     </head>
     <body bgcolor="blue">
-         <h1 align = "center">HOTEL RIFAYA</h1> 
-         <br> 
-         
-         <h3>
-                Hotel Rifaya is a local budget hotel in Ramanathapuram town. 
-            It is primarily used by pilgrims visiting the Ramanathaswamy Temple.
-            Online information and booking options are very limited. 
-            It is best to contact the hotel directly by phone for availability and rates. 
-            Consider other established hotels in the area like Hotel Saravana for easier online booking.
-         </h3>
-    </body>
-    
-</html>
-
-
-<html>
-    <head>
-        <title align=" centre "> SEBBA HENNA ARTISTRY </title>
-        <br>
-
-    </head>
-    <body bgcolor="yellow">
-         <h1 align = "center"> SEBBA HENNA ARTISTRY </h1> 
-         <br> 
-         
-        <h3 align = "center">
-                Seba Henna Artistry is a professional bridal and special events henna service.
-                They create intricate, detailed designs using natural henna paste for a rich, long-lasting stain.
-                You can view their portfolio and contact them via their Instagram profile.
+        <h1 align="center">
+            <font color="red"><b>Ramanathapuram</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="green"><b>Hotel Rifaya</b></font>
         </h3>
-    </body>
-    
+        <hr size="3" color="yellow">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                Hotel Rifaya is a local budget hotel in Ramanathapuram town. 
+                It is primarily used by pilgrims visiting the Ramanathaswamy Temple.
+                Online information and booking options are very limited. 
+                It is best to contact the hotel directly by phone for availability and rates. 
+                Consider other established hotels in the area like Hotel Saravana for easier online booking. 
+        </p>
+                
+   </body>
 </html>
 
 
-
-<html>
+<html>   
     <head>
-        <title align=" centre ">HOSPITAL </title>
-        <br>
-
+        <title>GH</title>
     </head>
     <body bgcolor="purple">
-         <h1 align = "center"> GOVERNMENT HOSPITAL </h1> 
-         <br>
-         <h3>
-            Government District Headquarters Hospital, Ramanathapuram is the main public hospital in the district.
+        <h1 align="center">
+            <font color="green"><b>Ramanathapuram</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="blue"><b>Government Hospital</b></font>
+        </h3>
+        <hr size="3" color="yellow">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                Government District Headquarters Hospital, Ramanathapuram is the main public hospital in the district.
             It is located in the heart of Ramanathapuram town and offers a wide range of medical services across various departments, including General Medicine, 
             Surgery, Pediatrics, Gynecology, and Orthopedics.
             As a government facility, it provides affordable and often free healthcare to 
             the local population and is a crucial referral center for primary health centers in the area. 
-            The hospital includes emergency services, inpatient wards, outpatient departments, and basic diagnostic facilities.
-         </h3>
+            The hospital includes emergency services, inpatient wards, outpatient departments, and basic diagnostic facilities.</p>
+   </body>
 </html>
 
-
-<html>
+<html>   
     <head>
-        <title align=" centre ">RAILWAY STATION </title>
-        <br>
-
+        <title>Railway</title>
     </head>
-    <body bgcolor="pink">
-         <h1 align = "center"> RAILWAY STATION </h1> 
-         <br> 
-         
-        <h3 align = "center">
-            Ramanathapuram Railway Station (station code: RMD) is a major railhead in Tamil Nadu's Ramanathapuram district. 
-            It is well-connected to key cities like Chennai, Coimbatore, Madurai, and Trichy via several express and passenger trains. 
-            The station serves as the main rail gateway for pilgrims visiting the famous Ramanathaswamy Temple in town and for travellers heading to the pilgrimage island of Rameswaram (connected via a separate branch line from Mandapam). 
-            Facilities include basic waiting areas, reservation counters, and food stalls, with auto-rickshaws and taxis available outside for local transport.
+    <body bgcolor="blue">
+        <h1 align="center">
+            <font color="red"><b>Ramanathapuram</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="green"><b>Railway Station</b></font>
         </h3>
-    </body>
-    
+        <hr size="3" color="yellow">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                Ramanathapuram Railway Station (station code: RMD) is a major railhead in Tamil Nadu's Ramanathapuram district. 
+                It is well-connected to key cities like Chennai, Coimbatore, Madurai, and Trichy via several express and passenger trains. 
+                The station serves as the main rail gateway for pilgrims visiting the famous Ramanathaswamy Temple in town and for travellers heading to the pilgrimage island of Rameswaram (connected via a separate branch line from Mandapam). 
+                Facilities include basic waiting areas, reservation counters, and food stalls, with auto-rickshaws and taxis available outside for local transport.
+        </p>       
+   </body>
 </html>
 
+
+ <html>   
+    <head>
+        <title>seba</title>
+    </head>
+    <body bgcolor="aqua">
+        <h1 align="center">
+            <font color="red"><b>Ramanathapuram</b></font>
+        </h1>
+        <h3 align="center">
+        <font color="blue"><b>Seba Henna Artistry</b></font>
+        </h3>
+        <hr size="3" color="red">
+        <p align="justify">
+            <font face="Georgia" size="5">
+                Seba Henna Artistry is a professional bridal and special events henna service.
+                They create intricate, detailed designs using natural henna paste for a rich, long-lasting stain.
+                You can view their portfolio and contact them via their Instagram profile.</p>
+   </body>
+</html>
 
 
 ~~~
 
 ## OUTPUT
-![alt text](<Screenshot (19).png>)
-![alt text](<Screenshot (21).png>)
-![alt text](<Screenshot (20).png>)
-![alt text](<Screenshot (22).png>)
-![alt text](<Screenshot (18).png>)
-![alt text](<Screenshot (23).png>)
 
-
+![alt text](<Screenshot (29).png>)
+![alt text](<Screenshot (27).png>)
+![alt text](<Screenshot (24).png>)
+![alt text](<Screenshot (26).png>)
+![alt text](<Screenshot (27).png>)
+![alt text](<Screenshot (28).png>)
 
 
 ## RESULT
