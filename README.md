@@ -81,7 +81,7 @@ Execute the programs and publish them.
     <head>
         <title>Rifaya</title>
     </head>
-    <body bgcolor="blue">
+    <body bgcolor="violet">
         <h1 align="center">
             <font color="red"><b>Ramanathapuram</b></font>
         </h1>
@@ -173,13 +173,12 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![alt text](<Screenshot (29).png>)
-![alt text](<Screenshot (27).png>)
-![alt text](<Screenshot (24).png>)
+![alt text](<Screenshot (29)-1.png>)
+![alt text](<Screenshot (25).png>)
+![alt text](<Screenshot (31).png>)
 ![alt text](<Screenshot (26).png>)
-![alt text](<Screenshot (27).png>)
-![alt text](<Screenshot (28).png>)
-
+![alt text](<Screenshot (27)-1.png>)
+![alt text](<Screenshot (28)-1.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
